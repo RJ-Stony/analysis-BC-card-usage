@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 19 09:03:42 2025
-
-@author: Roh Jun Seok
-"""
-
 '''
 댓글을 군집화해 분석
 댓글 분석은 왜 필요할까? 분석해서 어디에 활용할 수 있을까?
