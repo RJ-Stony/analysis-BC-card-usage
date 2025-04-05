@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 19 12:41:23 2025
-
-@author: Roh Jun Seok
-"""
 '''
 카드 소비 데이터 분석 : bc_card.txt : 원본 데이터 (2019.6 전체 소비 데이터의 일부)
 
@@ -342,47 +336,3 @@ plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.25), ncol=2)
 # tight_layout를 사용하되, rect 인자로 하단 여백 확보 (여기서는 하단 15% 확보)
 plt.tight_layout(rect=[0, 0.15, 1, 1])
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
